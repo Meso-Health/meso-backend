@@ -1,0 +1,8 @@
+
+<div class="field-unit__label">
+  <%= f.label field.attribute %>
+</div>
+<div class="field-unit__field">
+	<%= f.text_field('formatted_date_field', value: field.to_s, class: 'display_value', placeholder: "DD-MM-YYYY") %>
+	<%= f.hidden_field(field.attribute, value: field.data, class: 'actual_value') %>
+</div>

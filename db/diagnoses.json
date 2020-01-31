@@ -1,0 +1,976 @@
+[
+  [
+    1,
+    "Abnormal Vaginal Discharge",
+    [
+      "AVD"
+    ],
+    null
+  ],
+  [
+    2,
+    "Addison's Disease",
+    [
+
+    ],
+    null
+  ],
+  [
+    3,
+    "Allergies",
+    [
+
+    ],
+    null
+  ],
+  [
+    4,
+    "Amoebiasis",
+    [
+
+    ],
+    null
+  ],
+  [
+    5,
+    "Anaemia",
+    [
+
+    ],
+    null
+  ],
+  [
+    6,
+    "Anal Fissure",
+    [
+
+    ],
+    null
+  ],
+  [
+    7,
+    "Anaphylactic Shock ",
+    [
+
+    ],
+    null
+  ],
+  [
+    8,
+    "Anemia in Pregnancy ",
+    [
+
+    ],
+    null
+  ],
+  [
+    9,
+    "Animal and Human Bite ",
+    [
+
+    ],
+    null
+  ],
+  [
+    10,
+    "Anxiety",
+    [
+
+    ],
+    null
+  ],
+  [
+    11,
+    "Appendicitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    12,
+    "Arthritis",
+    [
+
+    ],
+    null
+  ],
+  [
+    13,
+    "Asthma",
+    [
+
+    ],
+    null
+  ],
+  [
+    14,
+    "Balanitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    15,
+    "Benign Prostatic Hyperplasia",
+    [
+
+    ],
+    null
+  ],
+  [
+    16,
+    "Bladder Outlet Obstruction",
+    [
+
+    ],
+    null
+  ],
+  [
+    17,
+    "Bronchiolitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    18,
+    "Brucellosis",
+    [
+
+    ],
+    null
+  ],
+  [
+    19,
+    "Burns",
+    [
+
+    ],
+    null
+  ],
+  [
+    20,
+    "Candidiasis",
+    [
+      "oral",
+      "oralpharyngeal",
+      "vaginal"
+    ],
+    null
+  ],
+  [
+    21,
+    "Cholecysistis",
+    [
+
+    ],
+    null
+  ],
+  [
+    22,
+    "Cholera",
+    [
+
+    ],
+    null
+  ],
+  [
+    23,
+    "Chronic Obstructive Pulmonary Disease",
+    [
+      "COPD"
+    ],
+    null
+  ],
+  [
+    24,
+    "Cold",
+    [
+
+    ],
+    null
+  ],
+  [
+    25,
+    "Constipation",
+    [
+
+    ],
+    null
+  ],
+  [
+    26,
+    "Cough ",
+    [
+
+    ],
+    null
+  ],
+  [
+    27,
+    "Croup",
+    [
+
+    ],
+    null
+  ],
+  [
+    28,
+    "Cushing's Syndrome",
+    [
+
+    ],
+    null
+  ],
+  [
+    29,
+    "Cystitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    30,
+    "Dehydration",
+    [
+
+    ],
+    null
+  ],
+  [
+    31,
+    "Diabetes",
+    [
+      "DM"
+    ],
+    null
+  ],
+  [
+    32,
+    "Diabetes in Pregnancy",
+    [
+      "DM"
+    ],
+    null
+  ],
+  [
+    33,
+    "Diarrhea (acute)",
+    [
+
+    ],
+    null
+  ],
+  [
+    34,
+    "Diarrhea (persistent)",
+    [
+
+    ],
+    null
+  ],
+  [
+    35,
+    "Dyspepsia",
+    [
+
+    ],
+    null
+  ],
+  [
+    36,
+    "Dysphagia",
+    [
+
+    ],
+    null
+  ],
+  [
+    37,
+    "Epilepsy",
+    [
+
+    ],
+    null
+  ],
+  [
+    38,
+    "Febrile Convulsions ",
+    [
+
+    ],
+    null
+  ],
+  [
+    39,
+    "Pyrexia of Unknown Cause",
+    [
+      "POU"
+    ],
+    null
+  ],
+  [
+    40,
+    "Flu",
+    [
+
+    ],
+    null
+  ],
+  [
+    41,
+    "Foreign Body",
+    [
+      "FB"
+    ],
+    null
+  ],
+  [
+    42,
+    "Fractures",
+    [
+
+    ],
+    null
+  ],
+  [
+    43,
+    "Gallstones",
+    [
+
+    ],
+    null
+  ],
+  [
+    44,
+    "Gastritis",
+    [
+
+    ],
+    null
+  ],
+  [
+    45,
+    "Gastroesophageal Reflux Disease",
+    [
+
+    ],
+    null
+  ],
+  [
+    46,
+    "Genital Ulcers",
+    [
+
+    ],
+    null
+  ],
+  [
+    47,
+    "Genital Warts",
+    [
+
+    ],
+    null
+  ],
+  [
+    48,
+    "Giardiasis",
+    [
+
+    ],
+    null
+  ],
+  [
+    49,
+    "Glomerulonephritis",
+    [
+
+    ],
+    null
+  ],
+  [
+    50,
+    "Goitre",
+    [
+
+    ],
+    null
+  ],
+  [
+    51,
+    "Haemorrhoids",
+    [
+
+    ],
+    null
+  ],
+  [
+    52,
+    "Head Injuries",
+    [
+
+    ],
+    null
+  ],
+  [
+    53,
+    "Headache",
+    [
+
+    ],
+    null
+  ],
+  [
+    54,
+    "Hepatitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    55,
+    "HIV",
+    [
+
+    ],
+    null
+  ],
+  [
+    56,
+    "Hypertension",
+    [
+
+    ],
+    null
+  ],
+  [
+    57,
+    "Hypertension in Pregnancy",
+    [
+
+    ],
+    null
+  ],
+  [
+    58,
+    "Hypoglycaemia",
+    [
+
+    ],
+    null
+  ],
+  [
+    59,
+    "Hypovolaemic Shock ",
+    [
+
+    ],
+    null
+  ],
+  [
+    60,
+    "Inguinal Swelling ",
+    [
+
+    ],
+    null
+  ],
+  [
+    61,
+    "Intestinal Worms",
+    [
+      "worm infections",
+      "helminthes"
+    ],
+    null
+  ],
+  [
+    62,
+    "Jaundice",
+    [
+
+    ],
+    null
+  ],
+  [
+    63,
+    "Liver Cirrhosis",
+    [
+
+    ],
+    null
+  ],
+  [
+    64,
+    "Malaria",
+    [
+      "MAL"
+    ],
+    null
+  ],
+  [
+    65,
+    "Malaria in Pregnancy (1st trimester)",
+    [
+      "MAL"
+    ],
+    null
+  ],
+  [
+    66,
+    "Malaria in Pregnancy (2nd or 3rd trimester)",
+    [
+
+    ],
+    null
+  ],
+  [
+    67,
+    "Measles",
+    [
+
+    ],
+    null
+  ],
+  [
+    68,
+    "Meningitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    69,
+    "Moderate Acute Malnutrition",
+    [
+      "MAM"
+    ],
+    null
+  ],
+  [
+    70,
+    "Neonatal Meningitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    71,
+    "Neonatal Pneumonia ",
+    [
+
+    ],
+    null
+  ],
+  [
+    72,
+    "Neonatal Sepsis",
+    [
+
+    ],
+    null
+  ],
+  [
+    73,
+    "Nephritic Syndrome",
+    [
+
+    ],
+    null
+  ],
+  [
+    74,
+    "Oestomyelitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    75,
+    "Otitis Media",
+    [
+
+    ],
+    null
+  ],
+  [
+    76,
+    "Pancreatitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    77,
+    "Pelvic Inflammatory Disease ",
+    [
+      "PID"
+    ],
+    null
+  ],
+  [
+    78,
+    "Peptic Ulcer Disease",
+    [
+      "PUD"
+    ],
+    null
+  ],
+  [
+    79,
+    "Pertusis",
+    [
+
+    ],
+    null
+  ],
+  [
+    80,
+    "Pneumonia ",
+    [
+
+    ],
+    null
+  ],
+  [
+    81,
+    "Poisoning",
+    [
+
+    ],
+    null
+  ],
+  [
+    82,
+    "Prostatitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    83,
+    "Pyelonephritis",
+    [
+
+    ],
+    null
+  ],
+  [
+    84,
+    "Pyomyositis",
+    [
+
+    ],
+    null
+  ],
+  [
+    85,
+    "Renal Failure",
+    [
+
+    ],
+    null
+  ],
+  [
+    86,
+    "Respiratory Tract Infection",
+    [
+      "RTI"
+    ],
+    null
+  ],
+  [
+    87,
+    "Road Traffic Accident",
+    [
+      "RTA"
+    ],
+    null
+  ],
+  [
+    88,
+    "Scrotal Swelling",
+    [
+
+    ],
+    null
+  ],
+  [
+    89,
+    "Sepsis",
+    [
+
+    ],
+    null
+  ],
+  [
+    90,
+    "Severe Acute Malnutrition",
+    [
+      "SAM"
+    ],
+    null
+  ],
+  [
+    91,
+    "Severe Malaria",
+    [
+      "SMAL",
+      "s. mal",
+      "smal",
+      "s mal",
+      "MAL"
+    ],
+    null
+  ],
+  [
+    92,
+    "Severe Malaria in Pregnancy (1st Trimester)",
+    [
+      "SMAL",
+      "s. mal",
+      "smal",
+      "s mal"
+    ],
+    null
+  ],
+  [
+    93,
+    "Severe Malaria in Pregnancy (2nd or 3rd Trimester)",
+    [
+      "SMAL",
+      "MAL",
+      "s. mal",
+      "smal",
+      "s mal"
+    ],
+    null
+  ],
+  [
+    94,
+    "Sexual Assault ",
+    [
+
+    ],
+    null
+  ],
+  [
+    95,
+    "Sexually Transmitted Infection",
+    [
+
+    ],
+    null
+  ],
+  [
+    96,
+    "Shigellosis",
+    [
+
+    ],
+    null
+  ],
+  [
+    97,
+    "Skin Diseases",
+    [
+
+    ],
+    null
+  ],
+  [
+    98,
+    "Sleeping Sickness",
+    [
+
+    ],
+    null
+  ],
+  [
+    99,
+    "Stroke",
+    [
+
+    ],
+    null
+  ],
+  [
+    100,
+    "Syphilis ",
+    [
+
+    ],
+    null
+  ],
+  [
+    101,
+    "Tuberculosis",
+    [
+
+    ],
+    null
+  ],
+  [
+    102,
+    "Typhoid Fever",
+    [
+
+    ],
+    null
+  ],
+  [
+    103,
+    "Upper GIT bleeding",
+    [
+
+    ],
+    null
+  ],
+  [
+    104,
+    "Upper Respiratory Tract Infection",
+    [
+      "URTI"
+    ],
+    null
+  ],
+  [
+    105,
+    "Uretheral Discharge (male) ",
+    [
+
+    ],
+    null
+  ],
+  [
+    106,
+    "Urinary Tract Infection",
+    [
+      "UTI"
+    ],
+    null
+  ],
+  [
+    107,
+    "Urinary Tract Infection in Pregnancy ",
+    [
+      "UTI"
+    ],
+    null
+  ],
+  [
+    108,
+    "Urine Incontinence",
+    [
+
+    ],
+    null
+  ],
+  [
+    109,
+    "Vitamin A Deficiency ",
+    [
+
+    ],
+    null
+  ],
+  [
+    110,
+    "Wounds",
+    [
+
+    ],
+    null
+  ],
+  [
+    111,
+    "Sore Throat",
+    [
+
+    ],
+    null
+  ],
+  [
+    112,
+    "Gastroenteritis",
+    [
+      "GE"
+    ],
+    null
+  ],
+  [
+    113,
+    "Dysentery",
+    [
+
+    ],
+    null
+  ],
+  [
+    114,
+    "Cough (no pneumonia)",
+    [
+
+    ],
+    null
+  ],
+  [
+    115,
+    "Laryngitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    116,
+    "Dysmenorrhoea",
+    [
+
+    ],
+    null
+  ],
+  [
+    117,
+    "Fatigue",
+    [
+
+    ],
+    null
+  ],
+  [
+    118,
+    "Abscess",
+    [
+
+    ],
+    null
+  ],
+  [
+    119,
+    "Conjunctivitis",
+    [
+
+    ],
+    null
+  ],
+  [
+    120,
+    "Complications in Pregnancy",
+    [
+
+    ],
+    null
+  ]
+]
