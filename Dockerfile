@@ -5,7 +5,6 @@
 #     for the buildpack are not used in the final image
 #
 # Requres the following ENV variables to be set when building:
-#     BUNDLE_ENTERPRISE__CONTRIBSYS__COM=<username:password>
 #     SECRET_KEY_BASE
 #
 
