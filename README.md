@@ -1,6 +1,6 @@
 # Meso Backend
 
-[![CircleCI](https://circleci.com/gh/Watsi/uhp-backend.svg?style=svg&circle-token=f4ef37ba4977d42d8debccad98813b45f5742038)](https://circleci.com/gh/Watsi/uhp-backend)
+[![CircleCI](https://circleci.com/gh/Meso-Health/meso-backend.svg?style=svg)](https://circleci.com/gh/Meso-Health/meso-backend)
 
 The database backend and API for Meso.
 
