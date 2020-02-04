@@ -1,0 +1,2 @@
+#!/bin/sh
+git pull --rebase && INCLUDE_UPKEEP_SPECS=1 DISABLE_SPRING=1 bundle exec rspec && git push origin head

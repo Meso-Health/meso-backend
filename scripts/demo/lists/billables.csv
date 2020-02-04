@@ -1,0 +1,412 @@
+type,name,composition,unit,accounting_group,price_in_cents,health_center,general_hospital
+drug,ibumex,syrup,1000Ml,drug_and_supply,4000,Y,Y
+drug,Cough Linctus,syrup,200ml,drug_and_supply,3000,Y,Y
+drug,Dapsone,tablet,100mg,drug_and_supply,0,Y,Y
+drug,universal liment,cream,100ml,drug_and_supply,4000,Y,Y
+drug,Vitaglobin,syrup,100ml,drug_and_supply,5000,Y,Y
+drug,Abacavir / Lamivudine (ABC+3TC),tablet,60mg / 30mg,drug_and_supply,0,Y,Y
+drug,Aciclovir,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Aciclovir,tablet,200mg,drug_and_supply,3000,Y,Y
+drug,Adrenaline,injection,1mg / 1ml,drug_and_supply,2000,Y,Y
+drug,Albendazole,syrup,10ml,drug_and_supply,0,Y,Y
+drug,Albendazole,tablet,400mg,drug_and_supply,0,Y,Y
+drug,Albendazole (Children 1-14),tablet,400mg,drug_and_supply,0,Y,Y
+drug,Aminophylline,tablet,100mg,drug_and_supply,100,Y,Y
+drug,Aminophylline,vial,10ml,drug_and_supply,3000,Y,Y
+drug,Amitriptyline,tablet,25mg,drug_and_supply,300,Y,Y
+drug,Amodiaquin / Artesonate,tablet,100mg / 270mg,drug_and_supply,5000,Y,Y
+drug,Amodiaquin / Artesonate (Child),tablet,25mg / 67.5mg,drug_and_supply,3000,Y,Y
+drug,Amoxicillin,suspension,100ml,drug_and_supply,5000,Y,Y
+drug,Amoxicillin,capsule,250mg,drug_and_supply,100,Y,Y
+drug,Ampicillin,suspension,100ml,drug_and_supply,5000,Y,Y
+drug,Ampicillin / Cloxacillin,capsule,500mg,drug_and_supply,300,Y,Y
+drug,Ampicillin / Cloxacillin,powder,100ml,drug_and_supply,5000,Y,Y
+drug,Ampicillin Sodium,vial,500mg,drug_and_supply,2000,Y,Y
+drug,Artemether,vial,80mg / 1ml,drug_and_supply,3000,Y,Y
+drug,Artemether / Lumefantrine (Coartem),tablet,20mg / 120mg,drug_and_supply,0,Y,Y
+drug,Artesunate,vial,60mg,drug_and_supply,5000,Y,Y
+drug,Ascorbic Acid (Vitamin C),tablet,10mg,drug_and_supply,100,Y,Y
+drug,Aspirin,tablet,300mg,drug_and_supply,100,Y,Y
+drug,Aspirine (Heart Disease),tablet,75mg,drug_and_supply,1000,Y,Y
+drug,Atropine,injection,,drug_and_supply,2000,Y,Y
+drug,Azithromycine,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Benzathine Benzylpenicillin,vial,2.4mg,drug_and_supply,5000,Y,Y
+drug,Benzyl Penicillin Sodium,vial,600mg,drug_and_supply,2000,Y,Y
+drug,Betamethasone,cream,15gm,drug_and_supply,3000,Y,Y
+drug,Betamethasone Neomycin,cream,15gm,drug_and_supply,0,Y,Y
+drug,Betamethasone Neomycin,cream,15gm,drug_and_supply,4000,Y,Y
+drug,Betamethasone Sodium Phosphate with Neomycin Sulphate,drop,10ml,drug_and_supply,3000,Y,Y
+drug,Bisocodyl,tablet,5mg,drug_and_supply,200,Y,Y
+drug,Bro-Zedex,syrup,100ml,drug_and_supply,5000,Y,Y
+drug,CAF,vial,1g,drug_and_supply,3000,Y,Y
+drug,Cafalexin,tablet,250mg,drug_and_supply,300,Y,Y
+drug,Calamine,lotion,,drug_and_supply,3000,Y,Y
+drug,Calcium Lactate,tablet,300mg,drug_and_supply,150,Y,Y
+drug,Captopril,tablet,25mg,drug_and_supply,200,Y,Y
+drug,Carbamazepine,tablet,200mg,drug_and_supply,100,Y,Y
+drug,Cefalexin,suspension,125mg / 5ml,drug_and_supply,0,Y,Y
+drug,Cefixime,syrup,100mg / 5ml,drug_and_supply,0,Y,Y
+drug,Cefixime,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Ceftriaxone,injection,1000mg,drug_and_supply,5000,Y,Y
+drug,Cefuroxime,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Cephalexin,capsule,250mg,drug_and_supply,0,Y,Y
+drug,Cephalexin,syrup,125mg / 5ml,drug_and_supply,0,Y,Y
+drug,Cetirizine Hydrochloride,syrup,5mg / 5ml,drug_and_supply,0,Y,Y
+drug,Cetirizine Hydrochloride,tablet,10mg,drug_and_supply,0,Y,Y
+drug,Cetirizine Hydrochloride,tablet,10mg,drug_and_supply,200,Y,Y
+drug,Charcoal,tablet,0.25gm,drug_and_supply,300,Y,Y
+drug,Chloramphenicol,vial,1g,drug_and_supply,2000,Y,Y
+drug,Chloramphenicol,drop,10ml,drug_and_supply,3000,Y,Y
+drug,Chlorphenamine,tablet,4mg,drug_and_supply,100,Y,Y
+drug,Chlorpromazine,tablet,100mg,drug_and_supply,300,Y,Y
+drug,Cimetidine,tablet,400mg,drug_and_supply,200,Y,Y
+drug,Ciprofloxacin,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Ciprofloxacin,tablet,500mg,drug_and_supply,200,Y,Y
+drug,azithromycine,syrup,15ml,drug_and_supply,0,Y,Y
+drug,Clotrimazole,pessary,100mg,drug_and_supply,0,Y,Y
+drug,Clotrimazole,pessary,100mg,drug_and_supply,3000,Y,Y
+drug,Clotrimazole 1%,cream,20gm,drug_and_supply,0,Y,Y
+drug,Clotrimazole 1%,cream,20gm,drug_and_supply,3000,Y,Y
+drug,Cloxacillin,capsule,250mg,drug_and_supply,200,Y,Y
+drug,Cloxacillin Sodium,vial,500mg,drug_and_supply,5000,Y,Y
+drug,Co-Trimoxazole (CTX),tablet,480mg,drug_and_supply,200,Y,Y
+drug,Co-Trimoxazole (CTX),tablet,800mg / 160mg,drug_and_supply,0,Y,Y
+drug,Co-Trimoxazole Paediatric (CTX Paed),tablet,120mg,drug_and_supply,0,Y,Y
+drug,Co-Trimoxazole Paediatric (CTX Paed),suspension,100ml,drug_and_supply,5000,Y,Y
+drug,Dexamethasone,tablet,0.5mg,drug_and_supply,100,Y,Y
+drug,Dexamethasone Sodium Phosphate,vial,2ml,drug_and_supply,3000,Y,Y
+drug,Dextrose 50% (Glucose),fluid,1ml,drug_and_supply,500,Y,Y
+drug,Diazepam,tablet,5mg,drug_and_supply,100,Y,Y
+drug,Diazepam,vial,2ml,drug_and_supply,2000,Y,Y
+drug,Diclofenac,tablet,50mg,drug_and_supply,0,Y,Y
+drug,Diclofenac,gel,,drug_and_supply,3000,Y,Y
+drug,Diclofenac,tablet,50mg,drug_and_supply,150,Y,Y
+drug,Diclofenac,injection,75mg / 3ml,drug_and_supply,2000,Y,Y
+drug,Doxycycline,capsule,100mg,drug_and_supply,0,Y,Y
+drug,Doxycycline,capsule,100mg,drug_and_supply,150,Y,Y
+drug,Efavirenz,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Efavirenz,tablet,600mg,drug_and_supply,0,Y,Y
+drug,Ergometrine,tablet,,drug_and_supply,500,Y,Y
+drug,Ergometrine,vial,0.5mg,drug_and_supply,3000,Y,Y
+drug,Erythromycin,tablet,250mg,drug_and_supply,300,Y,Y
+drug,Ferous / Folic Acid (Fefan),tablet,,drug_and_supply,0,Y,Y
+drug,Ferous / Folic Acid (Fefan),tablet,,drug_and_supply,100,Y,Y
+drug,Ferro-B Complex,syrup,100ml,drug_and_supply,3000,Y,Y
+drug,Ferrous Sulphate,tablet,65mg,drug_and_supply,0,Y,Y
+drug,Ferrous Sulphate,tablet,65mg,drug_and_supply,100,Y,Y
+drug,Flucap,capsule,400mg,drug_and_supply,200,Y,Y
+drug,Fluconazole,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Fluconazole,tablet,200mg,drug_and_supply,200,Y,Y
+drug,Flufed,tablet,,drug_and_supply,150,Y,Y
+drug,Flufed,syrup,,drug_and_supply,3000,Y,Y
+drug,Folic Acid,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Folic Acid,tablet,200mg,drug_and_supply,100,Y,Y
+drug,Furosemide,tablet,40mg,drug_and_supply,150,Y,Y
+drug,Gasex,tablet,,drug_and_supply,200,Y,Y
+drug,Gentamycin Sulphate,ampoule,80mg / 2ml,drug_and_supply,2000,Y,Y
+drug,Gentamycin Sulphate,drop,10ml,drug_and_supply,3000,Y,Y
+drug,Glycerine Borax,fluid,,drug_and_supply,2000,Y,Y
+drug,Griseofulvin,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Griseofulvin,tablet,500mg,drug_and_supply,300,Y,Y
+drug,Haemoforte,syrup,90ml,drug_and_supply,3000,Y,Y
+drug,Hydrocortisone,cream,15gm,drug_and_supply,0,Y,Y
+drug,Hydrocortisone,cream,15gm,drug_and_supply,3000,Y,Y
+drug,Hydrocortisone Acetate Ophthalmic,suspension,5ml,drug_and_supply,3000,Y,Y
+drug,Hydrocortisone Sodium Succinate,vial,100mg,drug_and_supply,0,Y,Y
+drug,Hydrocortisone Sodium Succinate,vial,100mg,drug_and_supply,3000,Y,Y
+drug,Hydroxythylcellulose,drop,,drug_and_supply,3000,Y,Y
+drug,Ibuprofen,tablet,200mg,drug_and_supply,100,Y,Y
+drug,Ibuprofen / Paracetamol (Brustan),tablet,400mg / 325mg,drug_and_supply,5000,Y,Y
+drug,Indometacin,tablet,25mg,drug_and_supply,150,Y,Y
+drug,Iron Fortified With Vitamins (IFS),tonic,100ml,drug_and_supply,0,Y,Y
+drug,Iron Sulphate,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Iron Vitamin B Complex,tablet,100mg / 5ml,drug_and_supply,0,Y,Y
+drug,Iron Vitamin B Complex,tablet,100mg / 5ml,drug_and_supply,150,Y,Y
+drug,Ivermectin,tablet,6mg,drug_and_supply,0,Y,Y
+drug,Ketoconazole,tablet,,drug_and_supply,300,Y,Y
+drug,Ketrax Adult,tablet,,drug_and_supply,2000,Y,Y
+drug,Ketrax Children,tablet,,drug_and_supply,1000,Y,Y
+drug,Lamivudine / Nevirapine / Zidovudine (3TC+NVP+ZDV),tablet,150mg / 200mg / 300mg,drug_and_supply,0,Y,Y
+drug,Lamivudine / Zidovudine (3TC+ZDV),tablet,150mg / 300mg,drug_and_supply,0,Y,Y
+drug,Lidocaine,injection,30ml,drug_and_supply,500,Y,Y
+drug,Liniment,cream,100ml,drug_and_supply,2000,Y,Y
+drug,Loperamide,tablet,2mg,drug_and_supply,300,Y,Y
+drug,Lopinavir + Ritonavir (LPV+r),tablet,200mg / 50mg,drug_and_supply,0,Y,Y
+drug,Lubricant,gel,42g,drug_and_supply,3000,Y,Y
+drug,Magnesium (Magnomint),syrup,100ml,drug_and_supply,3000,Y,Y
+drug,Magnesium Sulphate,vial,5ml,drug_and_supply,3000,Y,Y
+drug,Magnesium Trisilicate,tablet,250mg,drug_and_supply,100,Y,Y
+drug,Mebendazole,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Mebendazole,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Mebendazole,syrup,10ml,drug_and_supply,0,Y,Y
+drug,Mebendazole,tablet,500mg,drug_and_supply,500,Y,Y
+drug,Metoclopramide (Prasil),tablet,10mg,drug_and_supply,100,Y,Y
+drug,Metoclopramide (Prasil),vial,10mg / 2ml,drug_and_supply,2000,Y,Y
+drug,Metronidazole,suspension,125mg / 5ml,drug_and_supply,0,Y,Y
+drug,Metronidazole,tablet,200mg,drug_and_supply,0,Y,Y
+drug,Metronidazole,injection,100ml,drug_and_supply,3000,Y,Y
+drug,Metronidazole,tablet,200mg,drug_and_supply,100,Y,Y
+drug,Metronidazole,suspension,125mg / 5ml,drug_and_supply,3000,Y,Y
+drug,Miconazole 1%,cream,,drug_and_supply,0,Y,Y
+drug,Misoprostol,tablet,200mg,drug_and_supply,10000,Y,Y
+drug,Multivitamin,syrup,100ml,drug_and_supply,0,Y,Y
+drug,Multivitamin,tablet,25mg,drug_and_supply,0,Y,Y
+drug,Multivitamin,syrup,100ml,drug_and_supply,3000,Y,Y
+drug,Multivitamin,tablet,25mg,drug_and_supply,150,Y,Y
+drug,Nalidixic Acid,tablet,500mg,drug_and_supply,300,Y,Y
+drug,Neomycin Sulphate,cream,30g,drug_and_supply,3000,Y,Y
+drug,Nevirapine Adult (NVP Adult),tablet,200mg,drug_and_supply,0,Y,Y
+drug,Nevirapine Paediatric (NVP Paed),tablet,50mg,drug_and_supply,0,Y,Y
+drug,Nevirapine Paediatric (NVP Paed),syrup,50mg / 5ml,drug_and_supply,0,Y,Y
+drug,Nifedipine,tablet,20mg,drug_and_supply,500,Y,Y
+drug,Nitrofurantoin,tablet,100mg,drug_and_supply,0,Y,Y
+drug,Nitrofurantoin,tablet,100mg,drug_and_supply,200,Y,Y
+drug,Nystatin,suspension,30ml,drug_and_supply,0,Y,Y
+drug,Nystatin,suspension,30ml,drug_and_supply,5000,Y,Y
+drug,Nystatin,pessary,,drug_and_supply,7000,Y,Y
+drug,Omeprazole,capsule,20mg,drug_and_supply,300,Y,Y
+drug,Oral Rehydration Salt,sachet,,drug_and_supply,500,Y,Y
+drug,Oxytocin / Pitocin,ampoule,,drug_and_supply,3000,Y,Y
+drug,Paracetamol (Panadol),syrup,100ml,drug_and_supply,0,Y,Y
+drug,Paracetamol (Panadol),tablet,500mg,drug_and_supply,0,Y,Y
+drug,Paracetamol (Panadol),syrup,100ml,drug_and_supply,5000,Y,Y
+drug,Paracetamol (Panadol),tablet,500mg,drug_and_supply,100,Y,Y
+drug,Phenobarbital,tablet,30mg,drug_and_supply,150,Y,Y
+drug,Phenoxy-Methyl Penicillin (Pen V),tablet,250mg,drug_and_supply,100,Y,Y
+drug,Phenoxy-Methyl Penicillin (Pen V),injection,,drug_and_supply,2000,Y,Y
+drug,Phytomenadione (Vitamin K),vial,1ml,drug_and_supply,3000,Y,Y
+drug,Piritex,syrup,60ml,drug_and_supply,3000,Y,Y
+drug,Piroxicam,capsule,20mg,drug_and_supply,200,Y,Y
+drug,Podophyllin 0.2,cream,,drug_and_supply,0,Y,Y
+drug,Prednisolone,tablet,5mg,drug_and_supply,0,Y,Y
+drug,Probeta N,drop,7.5ml,drug_and_supply,5000,Y,Y
+drug,Procaine Benzyl Penicillin,vial,,drug_and_supply,4000,Y,Y
+drug,Promethazine Hydrochloride,tablet,25mg,drug_and_supply,100,Y,Y
+drug,Promethazine Hydrochloride,ampoule,50mg / 2ml,drug_and_supply,2000,Y,Y
+drug,Propranolol,tablet,40mg,drug_and_supply,150,Y,Y
+drug,Pyrimethamine / Sulfadiazine,tablet,25mg,drug_and_supply,0,Y,Y
+drug,Quinine,syrup,100ml,drug_and_supply,5000,Y,Y
+drug,Quinine,tablet,300mg,drug_and_supply,300,Y,Y
+drug,Quinine Dihydrochloride,vial,600mg,drug_and_supply,3000,Y,Y
+drug,Ruft,supplement,,drug_and_supply,0,Y,Y
+drug,Salbutamol,inhaler,100mcg,drug_and_supply,10000,Y,Y
+drug,Saline Proceeding,fluid,500ml,drug_and_supply,5000,Y,Y
+drug,Saline Start,fluid,500ml,drug_and_supply,10000,Y,Y
+drug,Silver Sulfadiazine,cream,15g,drug_and_supply,3000,Y,Y
+drug,Sodium Lactate Proceeding (Ringers Lactate Proceeding),fluid,500ml,drug_and_supply,5000,Y,Y
+drug,Sodium Lactate Start (Ringers Lactate Start),fluid,500ml,drug_and_supply,10000,Y,Y
+drug,Sulfadoxine / Pyrimethamine (Fansidar),tablet,525mg,drug_and_supply,0,Y,Y
+drug,Sulfadoxine / Pyrimethamine (Fansidar),tablet,525mg,drug_and_supply,1500,Y,Y
+drug,Tenofovir Disoproxil / Lamivudine / Efavirenz (TDF+3TC+EFV),tablet,300mg / 300mg / 600mg,drug_and_supply,0,Y,Y
+drug,Tenofovir Disoproxil / Lamivudine / Lopinavir/ Ritonavir (TDF+3TC+LPV+r),tablet,,drug_and_supply,0,Y,Y
+drug,Tenofovir Disoproxil / Lamivudine / Nevirapine (TDF+3TC+NVP),tablet,300mg / 300mg / 200mg,drug_and_supply,0,Y,Y
+drug,Tenofovir Disoproxil Fumarate + Lamivudine,tablet,300mg / 300mg,drug_and_supply,0,Y,Y
+drug,Tetracycline,ointment,3.5g,drug_and_supply,3000,Y,Y
+drug,Tinidazole,tablet,500mg,drug_and_supply,0,Y,Y
+drug,Tramadol Hydrochloride,capsule,50mg,drug_and_supply,300,Y,Y
+drug,Vitamin A (Child 1-5 yr),capsule,60mg,drug_and_supply,0,Y,Y
+drug,Vitamin A (Child 6mo - 1yr),capsule,30mg,drug_and_supply,0,Y,Y
+drug,Vitamin B Complex,tablet,,drug_and_supply,100,Y,Y
+drug,Vitamin B Complex,ampoule,2ml,drug_and_supply,2000,Y,Y
+drug,Water for Injection,ampoule,,drug_and_supply,200,Y,Y
+drug,Whitfield's,ointment,25gm,drug_and_supply,3000,Y,Y
+drug,Zinc Sulfate,tablet,20mg,drug_and_supply,2000,Y,Y
+lab,Blood Grouping,,,lab,4000,Y,Y
+lab,Brucella Agglutination Test (BAT),,,lab,3000,Y,Y
+lab,CD4,,,lab,0,Y,Y
+lab,Dry Blood Spots (DBS),,,lab,0,Y,Y
+lab,H-Pylori,,,lab,5000,Y,Y
+lab,Haemoglobin (HB),,,lab,5000,Y,Y
+lab,HIV Rapid Test,,,lab,0,Y,Y
+lab,Human Corionic Gonadatrophine (HCG),,,lab,3000,Y,Y
+lab,Random Blood Sugar (RBS),,,lab,4000,Y,Y
+lab,Rapid Plasma Reagin (RPR),,,lab,0,Y,Y
+lab,Rapid Plasma Reagin (RPR),,,lab,3000,Y,Y
+lab,Stool Analysis,,,lab,3000,Y,Y
+lab,Tuberculosis Screening (TB Screening),,,lab,0,Y,Y
+lab,Typhoid Testing Strips,,,lab,4000,Y,Y
+lab,Urinalysis,,,lab,3000,Y,Y
+lab,Viral Load Kit,,,lab,0,Y,Y
+service,Antenatal Consultation,,,card_and_consultation,0,Y,Y
+service,ART Consultation,,,card_and_consultation,0,Y,Y
+service,ART Counseling,,,card_and_consultation,0,Y,Y
+service,Bandages,,,other_services,3000,Y,Y
+service,Child Deworming,,,other_services,0,Y,Y
+service,ART Client Card,,,card_and_consultation,10000,Y,Y
+service,Complicated Delivery,,,surgery,60000,Y,Y
+service,Consultation,,,card_and_consultation,2000,Y,Y
+service,Cutgut Suture,,,surgery,4000,Y,Y
+service,Delivery,,,surgery,50000,Y,Y
+service,Enema,,,other_services,5000,Y,Y
+service,Eye Consultation,,,card_and_consultation,2000,Y,Y
+service,Filling,,,card_and_consultation,25000,Y,Y
+service,Immunization Consultation,,,card_and_consultation,0,Y,Y
+service,In-Patient,,,bed_day_and_food,7000,Y,Y
+service,Incision and Drainage (I&D),,,surgery,8000,Y,Y
+service,Iodine Tincture,fluid,22ml,other_services,0,Y,Y
+service,Manual Removal of Conception,,,other_services,4000,Y,Y
+service,Medical Form,,,card_and_consultation,1000,Y,Y
+service,Nutrition Assessment,,,card_and_consultation,0,Y,Y
+service,Postnatal Consultation,,,card_and_consultation,0,Y,Y
+service,Removal of Sutures,,,other_services,2000,Y,Y
+service,Sonar Scan,,,other_services,25000,Y,Y
+service,Tongue Tie,,,surgery,5000,Y,Y
+service,Tooth Extraction,,,surgery,10000,Y,Y
+service,Fistula screening,,,other_services,0,Y,
+supply,Catheters,unit,1,drug_and_supply,4000,Y,Y
+supply,Caustic Pencil,unit,1,drug_and_supply,0,Y,Y
+supply,Cycle Bead,unit,1,drug_and_supply,0,Y,Y
+supply,canulars,unit,1,drug_and_supply,2000,Y,Y
+supply,ART File,,,drug_and_supply,2000,Y,Y
+supply,Giving Set,unit,1,drug_and_supply,2000,Y,Y
+supply,Gyneacological Gloves,unit,2,drug_and_supply,5000,Y,Y
+supply,Latex Examination Gloves,unit,2,drug_and_supply,1000,Y,Y
+supply,Marie Stopes chart,unit,1,drug_and_supply,0,Y,Y
+supply,Mosquito Net,unit,1,drug_and_supply,0,Y,Y
+supply,Needle and Syringe,unit,1,drug_and_supply,1000,Y,Y
+supply,NG Tube,unit,1,drug_and_supply,4000,Y,Y
+supply,Surgical Blades,unit,1,drug_and_supply,1000,Y,Y
+supply,Surgical Gloves,unit,2,drug_and_supply,2000,Y,Y
+supply,Sutures (Nylon),unit,1,drug_and_supply,3000,Y,Y
+drug,Bacillus Calmette-Guerin Vaccine (BCG Vaccine),vial,1ml,drug_and_supply,0,Y,Y
+drug,DPT / HepB / Hib Vaccine (Pentavira Vaccine),vial,5ml,drug_and_supply,0,Y,Y
+drug,Hepatitis B Vaccine (HepB Vaccine),vial,10ml,drug_and_supply,0,Y,Y
+drug,Human Papillomavirus Vaccine (HPV Vaccine),vial,1ml,drug_and_supply,0,Y,Y
+drug,Measles Vaccine,vial,5ml,drug_and_supply,0,Y,Y
+drug,Pneumococcal Conjugate Vaccine (PCV Vaccine),vial,1ml,drug_and_supply,0,Y,Y
+drug,Polio Vaccine (IPV),vial,5ml,drug_and_supply,0,Y,Y
+drug,Polio Vaccine (Oral),vial,40 drops,drug_and_supply,0,Y,Y
+drug,Rotavirus Vaccine,vial,,drug_and_supply,0,Y,Y
+drug,Tetanus Toxide Vaccine (TT Vaccine),vial,10ml,drug_and_supply,0,Y,Y
+drug,Erythromycin,suspension,100ml,drug_and_supply,5000,Y,Y
+drug,vitamin c,,,drug_and_supply,100,Y,Y
+drug,tbs salbutamol,,,drug_and_supply,150,Y,Y
+drug,medven cream,,,drug_and_supply,3000,Y,Y
+drug,ciprofloxacine iv,,,drug_and_supply,4000,Y,Y
+drug,burnem cream,,,drug_and_supply,3000,Y,Y
+drug,cold ease,,,drug_and_supply,200,Y,Y
+drug,"Dextrose 5% (Glucose), First Bottle",fluid,500ml,drug_and_supply,10000,Y,Y
+drug,cold ease,,,drug_and_supply,200,Y,Y
+drug,Flufed,syrup,500ml,drug_and_supply,5000,Y,Y
+drug,"Dextrose 50% (Glucose), Additional",fluid,500ml,drug_and_supply,5000,Y,Y
+drug,nystatin tabs,,,drug_and_supply,500,Y,Y
+drug,Heamofort,,,drug_and_supply,15000,Y,Y
+drug,cypotin,,,drug_and_supply,5000,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,coldease,,,drug_and_supply,200,Y,Y
+service,oxygen therapy,,,other_services,20000,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,Amoxicillin tablets 250mg,,,drug_and_supply,100,Y,Y
+drug,Salbutamol tbs 4mg,,,drug_and_supply,200,Y,Y
+drug,Heamofort 250ml,,,drug_and_supply,15000,Y,Y
+drug,Burnem cream,,,drug_and_supply,3000,Y,Y
+drug,flucap syrup,,,drug_and_supply,3000,Y,Y
+drug,coldcap syp,,,drug_and_supply,4000,Y,Y
+drug,coldcap syp,,,drug_and_supply,4000,Y,Y
+drug,nystatin tablets,,,drug_and_supply,500,Y,Y
+drug,coldease cap,,,drug_and_supply,200,Y,Y
+drug,flucap syrup,,,drug_and_supply,5000,Y,Y
+drug,fluecap syrup,,,drug_and_supply,5000,Y,Y
+drug,nystatin tablets,,,drug_and_supply,500,Y,Y
+drug,nystatin tbs,,,drug_and_supply,500,Y,Y
+drug,flucap ,,,drug_and_supply,300,Y,Y
+supply,hydrogen peroxide,,,drug_and_supply,6000,Y,Y
+drug,flucap,,,drug_and_supply,5000,Y,Y
+drug,flucap,,,drug_and_supply,5000,Y,Y
+drug,flucap syrup,,,drug_and_supply,5000,Y,Y
+drug,flucap,,,drug_and_supply,5000,Y,Y
+drug,nystatin tablets,,,drug_and_supply,500,Y,Y
+drug,flucap syrup,,,drug_and_supply,5000,Y,Y
+drug,fucap syprup,,,drug_and_supply,5000,Y,Y
+drug,flucap syrup,,,drug_and_supply,5000,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,Heamofort 250ml,,,drug_and_supply,15000,Y,Y
+drug,flucap syp,,,drug_and_supply,5000,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,flucap syrup,,,drug_and_supply,5000,Y,Y
+drug,salbutamol,,,drug_and_supply,100,Y,Y
+drug,amoxicillin tablets,,,drug_and_supply,100,Y,Y
+drug,predisoline,,,drug_and_supply,300,Y,Y
+drug,salbutamo,,,drug_and_supply,500,Y,Y
+drug,heamofort,,,drug_and_supply,15000,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,salbutamol,,,drug_and_supply,200,Y,Y
+drug,salbutamol,,,drug_and_supply,200,Y,Y
+drug,salbutamol,,,drug_and_supply,200,Y,Y
+drug,metaformin,,,drug_and_supply,300,Y,Y
+drug,salbutamol tbs,,,drug_and_supply,200,Y,Y
+drug,coldcup,,,drug_and_supply,200,Y,Y
+drug,nystatin  tbs,,,drug_and_supply,300,Y,Y
+drug,salbutal,,,drug_and_supply,200,Y,Y
+drug,nystatin tablets,,,drug_and_supply,500,Y,Y
+drug,salbutamol 4mg,,,drug_and_supply,100,Y,Y
+drug,salbutamol,,,drug_and_supply,100,Y,Y
+drug,amoxyl tabs,,,drug_and_supply,100,Y,Y
+drug,burnem cream,,,drug_and_supply,3000,Y,Y
+drug,Amoxicillin,tablet,250mg,drug_and_supply,100,Y,Y
+drug,Burnem Cream,cream,1 tube / 20 grams,drug_and_supply,3000,Y,Y
+drug,Ciprofloxacine IV,injection,200mg / 100ml,drug_and_supply,4000,Y,Y
+drug,Cold Ease,capsule,464mg,drug_and_supply,200,Y,Y
+drug,Coldcap,syrup,60ml,drug_and_supply,4000,Y,Y
+drug,Coldcap,capsule,464mg,drug_and_supply,200,Y,Y
+drug,Flucap,syrup,60ml,drug_and_supply,3000,Y,Y
+drug,Flucap,syrup,100ml,drug_and_supply,5000,Y,Y
+drug,Heamofort,syrup,bottle / 250ml,drug_and_supply,15000,Y,Y
+drug,Hydrogen Peroxide,fluid,bottle,drug_and_supply,6000,Y,Y
+drug,Medven,cream,1 tube / 15 grams,drug_and_supply,3000,Y,Y
+drug,Metaformin,tablet,500mg,drug_and_supply,300,Y,Y
+drug,Nystatin,tablet,"500,000 IU",drug_and_supply,500,Y,Y
+service,Oxygen Therapy,,,other_services,20000,Y,Y
+drug,Predisoline,tablet,5mg,drug_and_supply,300,Y,Y
+drug,Salbutamol,tablet,4mg,drug_and_supply,200,Y,Y
+drug,Glibenclamide,tablet,5mg,drug_and_supply,200,Y,Y
+supply,Dressing,,1,other_services,4000,Y,Y
+drug,ibruprofen syp,,,drug_and_supply,4000,Y,Y
+drug,caf eye drop,,,drug_and_supply,3000,Y,Y
+drug,phenytion 100mg,,,drug_and_supply,200,Y,Y
+drug,indomethacin 250mg,,,drug_and_supply,100,Y,Y
+drug,Tramadol,,,drug_and_supply,4000,Y,Y
+drug,bendroflumethiazide,,,drug_and_supply,500,Y,Y
+drug,amoxyl 125,,,drug_and_supply,100,Y,Y
+drug,dexamethasone eye drop,,,drug_and_supply,300,Y,Y
+drug,dexamethasone eye dop,,,drug_and_supply,3000,Y,Y
+drug,Aprinox tb,,,drug_and_supply,500,Y,Y
+drug,bendroflumethiazide,,,drug_and_supply,500,Y,Y
+drug,iburemx syprup,,,drug_and_supply,4000,Y,Y
+drug,phenytoin,,,drug_and_supply,300,Y,Y
+drug,Bendroflumethiazide,,,drug_and_supply,500,Y,Y
+drug,ibuprofen syp,,,drug_and_supply,3000,Y,Y
+drug,amoxicillin 125,,,drug_and_supply,100,Y,Y
+drug,zecut,syrup,100ml,drug_and_supply,5000,Y,Y
+drug,zecuf,syrup,100ml,drug_and_supply,5000,Y,Y
+lab,Malaria (RDT),,,lab,0,Y,Y
+drug,eye drop dexamethasone,drop,10ml,drug_and_supply,5000,Y,Y
+drug,cephalexin,tablet,500Mg,drug_and_supply,500,Y,Y
+drug,agorforte,syrup,100,drug_and_supply,5000,Y,Y
+drug,ibuprofen,syrup,60ml,drug_and_supply,3000,Y,Y
+lab,Malaria (BS),,,lab,2000,Y,Y
+drug,Bendroflumethiazide,tablet,5mg,drug_and_supply,200,Y,Y
+drug,Neuroton,tablet,,drug_and_supply,10000,Y,Y
+drug,Neuroton,tablet,,drug_and_supply,1500,Y,Y
+drug,ecodax,cream,10g,drug_and_supply,3000,Y,Y
+drug,ecodax,cream,10,drug_and_supply,3000,Y,Y
+drug,ecodax,cream,10g,drug_and_supply,3000,Y,Y
+drug,darrows solution,vial,500ml,drug_and_supply,10000,Y,Y
+drug,acyclovir cream,unit,1gm,drug_and_supply,5000,Y,Y
+drug,ampiclox,syrup,100mg,drug_and_supply,3000,Y,Y
+drug,chloramphenical cps ( caf),capsule,250 mgs,drug_and_supply,200,Y,Y
+Drug,Tramadol ,vial,100mg/ 2ml AMP,drug_and_supply,802,Y,Y
+drug,Tramadol,vial,100mg/ 2ml,drug_and_supply,802,Y,Y
+imaging,X-Ray,,,other_services,0,,Y
+imaging,Ultrasound,,,other_services,0,,Y
+imaging,CT,,,other_services,0,,Y
+bed_day,Including Food/day,,,bed_day_and_food,3000,,Y
+bed_day,Shared Room,,,bed_day_and_food,2000,,Y
+lab,Amino acid profiles,,,lab,0,,Y
+lab,Calcium,,,lab,0,,Y
+lab,Protein,,,lab,0,,Y
+lab,Pregnancy tests,,,lab,0,,Y
+lab,Red blood cells and casts,,,lab,0,,Y
+procedure,Catheterization,,,other_services,2000,,Y
+procedure,Perinal Abscess Drainage,,,other_services,3000,,Y
+procedure,Lymph Node Biopsy,,,other_services,3000,,Y

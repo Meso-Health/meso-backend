@@ -1,0 +1,13 @@
+# General
+.git
+.gitignore
+
+# App
+README.md
+.env
+.envrc
+log
+tmp
+public/system
+public/dragonfly
+spec/tmp
