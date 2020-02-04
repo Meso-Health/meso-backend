@@ -66,7 +66,7 @@ jobs:
           name: Build docker image
           command: |
             docker build \
-              -t watsi/meso:staging \
+              -t mesohealth/backend:master \
               --build-arg SECRET_KEY_BASE=${SECRET_KEY_BASE} .
       - run:
           name: Log into docker
@@ -75,7 +75,7 @@ jobs:
       - run:
           name: Push docker image
           command: |
-            docker push watsi/meso:staging
+            docker push mesohealth/backend:master
 
 workflows:
   version: 2
