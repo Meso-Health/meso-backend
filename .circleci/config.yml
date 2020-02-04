@@ -60,8 +60,6 @@ jobs:
       - image: docker:stable-git
     steps:
       - checkout
-      - setup_remote_docker:
-          docker_layer_caching: true
       - run:
           name: Build docker image
           command: |
