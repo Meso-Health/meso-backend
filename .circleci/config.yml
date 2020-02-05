@@ -15,12 +15,12 @@ jobs:
           BUNDLE_RETRY: 3
           BUNDLE_PATH: vendor/bundle
           PGHOST: 127.0.0.1
-          PGUSER: uhp_backend
+          PGUSER: meso_backend
           RAILS_ENV: test
       - image: circleci/postgres:9.6.9-alpine
         environment:
-          POSTGRES_USER: uhp_backend
-          POSTGRES_DB: uhp_backend_test
+          POSTGRES_USER: meso_backend
+          POSTGRES_DB: meso_backend_test
           POSTGRES_PASSWORD: ""
     steps:
       - checkout
