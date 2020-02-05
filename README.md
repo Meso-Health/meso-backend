@@ -60,24 +60,17 @@ You can always start an interactive `psql` terminal into your development databa
 
 ## Local development
 
-##### `heroku local`
-With the environment, ruby, and the database set up, you can start up the app with just `heroku local`. This starts up the API with puma at [http://localhost:5000/](http://localhost:5000/).
+##### Running the server locally
+With the environment, ruby, and the database set up, you can start up the app with just `rails s -p 5000`. This starts up the API at [http://localhost:5000/](http://localhost:5000/).
 
-##### `rspec`
-We use RSpec, so run specs with `rspec`, which will use the [spring](rails/spring) preloader if `direnv` is installed.
+##### Running tests
+We use Rspec for tests. To run all the specs: `rspec`. To run a specific file, run `rspec <file name>`. To run a specific test case, run `rspec <path-to-file>:<line-number>`
 
-## Heroku setup
+##### Console access
 
-To deploy the application to Heroku, you'll need a Heroku account; it has worked fine to just use your personal Heroku account. Please enable two-factor authentication on your Heroku account, as it provides complete access to the deployed environment and database.
+`rails console`
 
-After you've installed the [Heroku toolbelt](https://toolbelt.heroku.com/) (`brew install heroku` works), set up your toolbelt:
-
-```
-$ heroku login
-$ heroku keys:add
-```
-
-## Console access
+This gets you access to all data via rails and useful for debugging purposes. I.e. if you enrolled a member and want to verify that it has synced to the backend, in rails console you can do `Member.order('created_at').last` to confirm.
 
 On all environments (including development), opening a Rails console requires declaring who you are – that is, entering the username of an admin user. This is not a form of authentication, since the ability to open a Rails console requires unfettered access to the deployed environment (including database backups, etc). The user declaration merely allows for tracking who made what changes and eases future data spelunking.
 
