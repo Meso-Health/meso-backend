@@ -5,7 +5,7 @@
 FactoryBot.define do
   VISIT_REASONS = %w[referral no_referral self_referral follow_up emergency]
   VISIT_TYPES = ['OPD - New Visit', 'OPD - Repeat Visit', 'Inpatient (IPD)']
-  PATIENT_OUTCOMES = %w[cured_or_discharged follow_up refused_service deceased other]
+  PATIENT_OUTCOMES = %w[cured_or_discharged follow_up deceased other]
 
   factory :encounter do
     id { SecureRandom.uuid }
