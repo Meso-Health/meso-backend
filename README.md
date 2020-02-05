@@ -72,20 +72,6 @@ With the environment, ruby, and the database set up, you can start up the app wi
 ##### `rspec`
 We use RSpec, so run specs with `rspec`, which will use the [spring](rails/spring) preloader if `direnv` is installed.
 
-##### `shipit`
-After committing, use `shipit` to pull changes from origin, run all specs, then push back up, all in one command.
-
-### End-to-end mobile testing
-For end-to-end mobile testing, you'll first need to setup `android-test` db with seed data:
-
-##### `RAILS_ENV=android-test rails db:setup`
-
-Then run an `android-test` server. This starts up the API with puma at [http://localhost:[port-number]/](http://localhost:[port-number]) in the android-test environment, which uses the android-test database instead of the development database.
-
-##### `rails s -e android-test -p [port-no]`
-
-We're setup to hit port `8000` on the android side.
-
 ## Heroku setup
 
 We're hosted on Heroku. You'll need a Heroku account; it has worked fine to just use your personal Heroku account. Please enable two-factor authentication on your Heroku account, as it provides complete access to the production environment and database.
